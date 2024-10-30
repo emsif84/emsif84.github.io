@@ -1,6 +1,6 @@
 
 # Technical Skills
-SQL, Excel, Python, PowerBI, Snowflake
+[b]SQL, Excel, Python, PowerBI, Snowflake[/b]
 
 # Current Position
 Dec, 2021 - today: Data Management in the telecommunication industry
