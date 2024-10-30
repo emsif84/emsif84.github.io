@@ -9,10 +9,10 @@ My name ist Florian. I have an educational background in economic psychology, cu
 
 
 # Data Positions
-* Dec, 2021 - today: Data Management in the telecommunication industry
+* Dec, 2021 - today: **Data Management** in the telecommunication industry at Cable4 GmbH, Karlsruhe
 
 
-* November, 2018 - May, 2019: Junior Social Scientist in Energy Research at Institute for Ressource Efficiency and Energy Strategies (IREES), Karlsruhe
+* November, 2018 - May, 2019: **Junior Social Scientist** in Energy Research at Institute for Ressource Efficiency and Energy Strategies (IREES), Karlsruhe
 
 
 # Internships
