@@ -2,14 +2,22 @@
 # Technical Skills
 **SQL, Excel, Python, PowerBI, Snowflake**
 
+&nbsp;
+
 
 # Relevant Positions
 * Dec, 2021 - today: Data Management in the telecommunication industry
-* November, 2018 - May, 2019: Junior Social scientist in Energy Science
+* November, 2018 - May, 2019: Junior Social Scientist in Energy Research
+
+
+&nbsp;
 
 # Internships
 * June, 2018 - October, 2018: Social Science in Energy Research
-* April, 2017 - May, 2018: Social Science and thesis Energy Research 
+* April, 2017 - May, 2018: Social Science and thesis in Energy Research
+
+
+&nbsp;
 
 
 # Working Experience
@@ -24,7 +32,7 @@ To reach this goal i extracted and transformed data with SQL in Snowflake and co
 
 
 # Education
-* April, 2023 - today: Data Scientist: Machine Learning Specialist on [codecadamy](http://www.codecademy.com)
+* April, 2023 - today: Data Scientist: Machine Learning Specialist on [www.codecadamy.com](http://www.codecademy.com)
 * October, 2014 - April, 2018: B.Sc. Economic Psychology
 
 
