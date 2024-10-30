@@ -13,7 +13,7 @@
 * Currently creating dashbords with PowerBI about customer data and residential assets.
 To reach this goal i extracted and transformed data with SQL in Snowflake and connected Snowflake with PowerBI to update the data daily. I use DAX to create measures to display KPIs and to show the trend on a quartely basis.
 
-* lsjdlkfjlksjdflsjdlfs
+* Call Analysis and Dashboard with Python and Excel on a monthly basis. To reached this goal, csv files were automatically joined and transformed monthly in Python. Via PowerQuery in Excel i loaded the data...   
 
 ## Previous projects
 
