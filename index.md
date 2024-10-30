@@ -1,23 +1,22 @@
 
-# Welcome to my Portfolio Page!
-I have an educational background in economic psychology, currently working in data management and motivated to dive deeper into data analytics and data science
+# Welcome!
+My name ist Florian. I have an educational background in economic psychology, currently working in data management and motivated to dive deeper into data analytics and data science
+
+&nbsp;
 
 # Technical Skills
 **SQL, Excel, Python, PowerBI, Snowflake**
 
-&nbsp;
 
 # Data Positions
 * Dec, 2021 - today: Data Management in the telecommunication industry
 * November, 2018 - May, 2019: Junior Social Scientist in Energy Research
 
-&nbsp;
 
 # Internships
 * June, 2018 - October, 2018: Social Science in Energy Research
 * April, 2017 - May, 2018: Social Science and thesis in Energy Research
 
-&nbsp;
 
 # Working Experience
 ## Projects in my current position
