@@ -1,10 +1,13 @@
 
+# Welcome to my Portfolio Page!
+I have an educational background in economic psychology, currently working in data management and motivated to dive deeper into data analytics and data science
+
 # Technical Skills
 **SQL, Excel, Python, PowerBI, Snowflake**
 
 &nbsp;
 
-# Relevant Positions
+# Data Positions
 * Dec, 2021 - today: Data Management in the telecommunication industry
 * November, 2018 - May, 2019: Junior Social Scientist in Energy Research
 
