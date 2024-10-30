@@ -4,7 +4,6 @@
 
 &nbsp;
 
-
 # Relevant Positions
 * Dec, 2021 - today: Data Management in the telecommunication industry
 * November, 2018 - May, 2019: Junior Social Scientist in Energy Research
@@ -16,7 +15,6 @@
 * April, 2017 - May, 2018: Social Science and thesis in Energy Research
 
 &nbsp;
-
 
 # Working Experience
 ## Projects in my current position
