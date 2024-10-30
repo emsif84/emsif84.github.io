@@ -11,7 +11,6 @@ My name ist Florian. I have an educational background in economic psychology, cu
 # Data Positions
 * Dec, 2021 - today: Data Management in the telecommunication industry
 
-&nbsp;
 
 * November, 2018 - May, 2019: Junior Social Scientist in Energy Research at Institute for Ressource Efficiency and Energy Strategies (IREES), Karlsruhe
 
@@ -19,7 +18,6 @@ My name ist Florian. I have an educational background in economic psychology, cu
 # Internships
 * June, 2018 - October, 2018: Social Science in Energy Research at Institute for Ressource Efficiency and Energy Strategies (IREES), Karlsruhe
 
-&nbsp;
 
 * April, 2017 - May, 2018: Social Science and thesis in Energy Research at Fraunhofer Institute for Systems and Innovation Research (ISI), Karlsruhe
 
