@@ -1,9 +1,9 @@
 
-## Working Experience
+# Working Experience
 
 
-## Education
+# Education
 
 
-## About Me
+# About Me and Motivation
 
