@@ -13,7 +13,7 @@ My name ist Florian. I have an educational background in economic psychology, cu
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="icon" width="30" height="30"/>
 </a>
 
-<a href = "<florian.emsmann@posteo.de>">
+<a href = "mailto:florian.emsmann@posteo.de">
     <img src ="https://img.icons8.com/?size=100&id=60688&format=png&color=000000" alt="icon" width="30" height="30">
 </a>
 
