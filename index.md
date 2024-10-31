@@ -1,6 +1,6 @@
 
 # Hello!
-My name ist Florian. I have an educational background in economic psychology, currently working in data management and motivated to dive deeper into data analytics and data science.
+My name ist Florian based in Karlsruhe. I have an educational background in economic psychology, currently working in data management and motivated to dive deeper into data analytics and data science.
 
 &nbsp;
 
@@ -9,7 +9,7 @@ My name ist Florian. I have an educational background in economic psychology, cu
 
 
 # Data Positions
-* December, 2021 - today: **Data Management** in the telecommunication industry at Cable4 GmbH, Karlsruhe
+* December, 2021 - today: **Data Management** in Telecom Industry at Cable4 GmbH, Karlsruhe
 
 
 * November, 2018 - May, 2019: **Junior Social Scientist** in Energy Research at Institute for Ressource Efficiency and Energy Strategies (IREES), Karlsruhe
@@ -35,7 +35,7 @@ To reach this goal I extracted and transformed data with SQL in Snowflake and co
 # Education
 * April, 2023 - today: Career Path "Data Scientist: Machine Learning Specialist on [www.codecademy.com](https://www.codecademy.com/learn/paths/data-science)
 
-* October, 2014 - April, 2018: B.Sc. Economic Psychology
+* October, 2014 - April, 2018: B.Sc. Economic Psychology at University at Applied Science, Darmstadt
 
 
 # Motivation
