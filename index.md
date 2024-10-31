@@ -1,9 +1,9 @@
 
 # Hello!
-My name ist Florian. I have an educational background in economic psychology, currently working in data management and motivated to dive deeper into data analytics and data science.
+My name ist Florian. I have an educational background in economic psychology, currently working in data management and motivated to dive deeper into data analytics and data science.  
 
 
-### See my data portfolio on GitHub and get in contact!   
+### See my data portfolio on GitHub and get in contact!  
 
 <a href="https://github.com/emsif84">
     <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="GitHub" width="30" height="30"/>
