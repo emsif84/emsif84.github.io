@@ -8,8 +8,6 @@ or contact me <florian.emsmann@posteo.de>
 ---
 
 
-
-&nbsp;
 # Technical Skills
 **SQL, Excel, Python, PowerBI, Snowflake**
 
