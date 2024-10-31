@@ -1,9 +1,9 @@
 
 # Hello!
-My name ist Florian. I have an educational background in economic psychology, currently working in data management and motivated to dive deeper into data analytics and data science.  
+My name ist Florian. I have an educational background in economic psychology, currently working in Data Management and motivated to dive deeper into Data Analytics and Data Science.  
 
 
-### data portfolio   
+### Data Portfolio   
 <div style="display: flex; align-items: center;">
     <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="icon" height="30" width="30" style="margin-right: 8px;">
     <a href="https://github.com/emsif84/churn_prediction">Customer Churn analysis and prediction</a>
@@ -59,4 +59,5 @@ To reach this goal I extracted and transformed data with SQL in Snowflake and co
 
 # Motivation
 
+When i studied Economic Psychology, quantitative methods played a crucial role. I was fascinated gaining insights with data and link them with previous experiences and theories. And somehow i had a sense for handling data. In my 5th semester we conducted a field study among german carsharer. Our partner was Fraunhofer Institute for System and Innovation Research (ISI). And this was my start in Energy Research. Afterwards I wrote my thesis at Fraunhofer ISI, then worked for a few months as a trainee at the Institute for Ressource Effiency and Energy Strategies (IREES) and started there as a Junior Social Scientist. Until this time my study mainly focused on qualitative research. Interviews, Focus Groups, transcribing, analyzing and project meetings were my daily work. But i also did exploratory data analysis, mainly with SPSS and Excel.
 
