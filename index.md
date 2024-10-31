@@ -1,8 +1,8 @@
 
 # Hello!
-My name ist Florian based in Karlsruhe. I have an educational background in economic psychology, currently working in data management and motivated to dive deeper into data analytics and data science.
+My name ist Florian. I have an educational background in economic psychology, currently working in data management and motivated to dive deeper into data analytics and data science.&nbsp;
 
-&nbsp;
+
 
 # Technical Skills
 **SQL, Excel, Python, PowerBI, Snowflake**
@@ -27,7 +27,7 @@ My name ist Florian based in Karlsruhe. I have an educational background in econ
 * Currently creating dashbords with PowerBI about customer data and residential assets.
 To reach this goal I extracted and transformed data with SQL in Snowflake and connected Snowflake with PowerBI to update the data daily. I use DAX to create measures to display KPIs and to show trends on a quartely basis.
 
-* Call Analysis and Dashboard with Python and Excel on a monthly basis. To reached this goal, csv files were automatically joined and transformed monthly in Python. With Excel Power Query I loaded the data and created a dashboard. 
+* Call Analysis and Dashboard with Python and Excel. To reached this goal, csv files were monthly loaded, joined and transformed in Python. With Excel Power Query I loaded the data and then plotted them with a Dashboard.
 
 ## Previous projects
 
