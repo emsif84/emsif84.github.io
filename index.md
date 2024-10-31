@@ -2,7 +2,7 @@
 # Hello!
 My name ist Florian. I have an educational background in economic psychology, currently working in data management and motivated to dive deeper into data analytics and data science.
 
-You can find me also on [Linkedin](https://www.linkedin.com/in/florianemsmann/)  
+[![LinkedIn](https://example.com/linkedin-icon.png)]  
 or contact me <florian.emsmann@posteo.de>
 
 ---
