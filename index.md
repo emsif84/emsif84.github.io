@@ -5,6 +5,10 @@ My name ist Florian. I have an educational background in economic psychology, cu
 You can find me also on [Linkedin](https://www.linkedin.com/in/florianemsmann/)  
 or contact me <florian.emsmann@posteo.de>
 
+---
+
+
+
 &nbsp;
 # Technical Skills
 **SQL, Excel, Python, PowerBI, Snowflake**
