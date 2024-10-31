@@ -4,9 +4,8 @@ My name ist Florian. I have an educational background in economic psychology, cu
 
 
 ### data portfolio   
-<a href="https://github.com/emsif84">
-    <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="GitHub" width="30" height="30"/>  
-</a>
+[Churn analysis and prediction](https://github.com/emsif84/churn_prediction)
+    
 
 ### Get in contact!  
 <a href="https://linkedin.com/in/florianemsmann/">
