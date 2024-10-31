@@ -6,15 +6,11 @@ My name ist Florian. I have an educational background in economic psychology, cu
 ### Get in Contact!   
 
 <a href="https://github.com/emsif84">
-    <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="icon" width="30" height="30"/>
-</a>
-
-<a href = "https://linkedin.com/in/florianemsmann/">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="icon" width="30" height="30"/>
-</a>
-
-<a href = "mailto:florian.emsmann@posteo.de">
-    <img src ="https://img.icons8.com/?size=100&id=60688&format=png&color=000000" alt="icon" width="30" height="30">
+    <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="GitHub" width="30" height="30"/>
+</a><a href="https://linkedin.com/in/florianemsmann/">
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" width="30" height="30"/>
+</a><a href="mailto:florian.emsmann@posteo.de">
+    <img src="https://img.icons8.com/?size=100&id=60688&format=png&color=000000" alt="E-Mail" width="30" height="30">
 </a>
 
 
