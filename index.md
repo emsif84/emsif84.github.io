@@ -1,15 +1,15 @@
 
 # Hello!
-My name ist Florian. I have an educational background in economic psychology, currently working in Data Management and motivated to dive deeper into Data Analytics and Data Science.  
+My name ist Florian. I have an educational background in Economic Psychology, currently working in Data Management and motivated to dive deeper into Data Analytics and Data Science.  
 
 
 <!-- ### Data Portfolio   
 <div style="display: flex; align-items: center;">
     <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="icon" height="30" width="30" style="margin-right: 8px;">
     <a href="https://github.com/emsif84/churn_prediction">Customer Churn analysis and prediction</a>
-</div>
+</div> -->
 
-&nbsp; -->
+&nbsp;
     
 ### Get in contact!  
 <a href="https://github.com/emsif84/churn_prediction">
