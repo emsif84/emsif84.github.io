@@ -57,9 +57,9 @@ To reach this goal I extracted and transformed data with SQL in Snowflake and co
 
 
 # Education
-* April, 2023 - today: Career Path "Data Scientist: Machine Learning Specialist on [www.codecademy.com](https://www.codecademy.com/learn/paths/data-science)
+* April, 2023 - today: Career Path **"Data Scientist: Machine Learning Specialist** on [www.codecademy.com](https://www.codecademy.com/learn/paths/data-science)
 
-* October, 2014 - April, 2018: B.Sc. Economic Psychology at University at Applied Science, Darmstadt  
+* October, 2014 - April, 2018: **B.Sc. Economic Psychology** at University at Applied Science, Darmstadt  
 Thesis: Qualitative study about the acceptance of PV-Systems among german companys.
 
 ---
