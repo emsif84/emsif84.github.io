@@ -73,7 +73,7 @@ When I jumped into the Telecom Industry I quickly realised that handling data re
 
 When Snowflake was introduced, my knowledge in SQL came into play. Furthermore i had to familiarize myself with PowerBI, which was also introduced for developing dashboards. So, there was a lot to learn, and i´m still learning today these tools.
 
-But somehow, there was a missing piece in my data knowledge. Up to this point i did a lot of exploratory data analysis or said differently, so far i work with data which represent the past. I wanted to minimize the gap to predictive analytics. Because of my study I was already familiar with models like regression or factor analysis etc. But everything in a straight scientific way. So I decided to start learning Machine Learning. I signed up on [codecademy](https://codecadamy.com/)
+But somehow, there was a missing piece in my data knowledge. Up to this point i did a lot of exploratory data analysis or said differently, so far i work with data which represent the past. I wanted to minimize the gap to predictive analytics. Because of my study I was already familiar with models like regression or factor analysis etc. But everything in a straight scientific way. So I decided to start learning Machine Learning. I signed up on [codecademy](https://www.codecademy.com/pages/data-science-career-specializations) and started my path in Machine Learning.
 
 
 ---
