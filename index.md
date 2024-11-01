@@ -62,13 +62,15 @@ To reach this goal I extracted and transformed data with SQL in Snowflake and co
 * October, 2014 - April, 2018: B.Sc. Economic Psychology at University at Applied Science, Darmstadt
 
 
-# Motivation
+# My Story and Motivation
 
-When I studied Economic Psychology, quantitative methods played a crucial role in the curriculum. I was exited about gaining insights with data. And somehow I had a sense of handling data. In my 5th semester we conducted a quantitative field study among carsharer with the Fraunhofer Institute for System and Innovation Research. And this was my start in Energy Research. I wrote my thesis there, then worked for a few months as a trainee at the Institute for Ressource Efficiency and Energy Strategies and lastly started there as a Junior Social Scientist. Until this time my study mainly focused on qualitative research. Interviews, Focus Groups, transcribing, analyzing and project meetings were my daily work. But I also did exploratory data analysis, mainly with SPSS and Excel.
+When I studied Economic Psychology, quantitative methods played a crucial role in the curriculum. I was exited about gaining insights with data. And somehow I had a sense of handling data. In my 5th semester we conducted a quantitative field study among carsharer with the Fraunhofer Institute for System and Innovation Research. And this was my start in Energy Research. I wrote my thesis there, then worked for a few months as a trainee at the Institute for Ressource Efficiency and Energy Strategies and lastly started there as a Junior Social Scientist. Until this time my work mainly focused on qualitative research. Interviews, Focus Groups, transcribing, analyzing and project meetings were my daily work. But I also did exploratory data analysis, mainly with SPSS and Excel.
 
 When I jumped into the Telecom Industry I quickly realised that handling data require different skills. And there´s a simple reason for that. Data is alive. During my research I worked with static data derived from surveys. But now I have to work with dynamic data that changes daily. I started learning SQL and how to work with PowerQuery in Excel for loading, transforming and joining data. I also learned how to work with new formulas like XLOOKUP - which is still by far the most important and most used formular in Excel. Additionally, I began learning "R" for extracting and transforming data via API. 
 
-When Snowflake was introduced, my knowledge in SQL came into play. Furthermore i had to familiarize myself with PowerBI, which was used to visualize the data through dashboards. So, there was a lot to learn, and i´m still learning.
+When Snowflake was introduced, my knowledge in SQL came into play. Furthermore i had to familiarize myself with PowerBI, which was also introduced for developing dashboards. So, there was a lot to learn, and i´m still learning today.
+
+But somehow, there was missing piece in my data knowledge. Up to this point i did a lot of exploratory data analysis or said differently, i worked so far with data which represent the past.
 
 
 &nbsp;
