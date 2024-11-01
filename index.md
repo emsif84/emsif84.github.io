@@ -71,9 +71,9 @@ When I studied Economic Psychology, quantitative methods played a crucial role i
 
 When I jumped into the Telecom Industry I quickly realised that handling data require different skills. And there´s a simple reason for that. Data is alive. During my research I worked with static data derived from surveys. But now I have to work with dynamic data that changes daily. I started learning SQL and how to work with PowerQuery in Excel for loading, transforming and joining data. I also learned how to work with new formulas like XLOOKUP - which is still by far the most important and most used formular in Excel. Additionally, I began learning "R" for extracting and transforming data via API. 
 
-When Snowflake was introduced, my knowledge in SQL came into play. Furthermore i had to familiarize myself with PowerBI, which was also introduced for developing dashboards. So, there was a lot to learn, and i´m still learning today.
+When Snowflake was introduced, my knowledge in SQL came into play. Furthermore i had to familiarize myself with PowerBI, which was also introduced for developing dashboards. So, there was a lot to learn, and i´m still learning today these tools.
 
-But somehow, there is a missing piece in my data knowledge. Up to this point i did a lot of exploratory data analysis or said differently, so far i work with data which represent the past.
+But somehow, there was a missing piece in my data knowledge. Up to this point i did a lot of exploratory data analysis or said differently, so far i work with data which represent the past. I wanted to minimize the gap to predictive analytics. Because of my study I was already familiar with models like regression or factor analysis etc. But everything in a straight scientific way. So I decided to start learning Machine Learning. I signed up on (https://codecadamy.com/)
 
 
 ---
