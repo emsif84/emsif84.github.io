@@ -61,6 +61,8 @@ To reach this goal I extracted and transformed data with SQL in Snowflake and co
 
 * October, 2014 - April, 2018: B.Sc. Economic Psychology at University at Applied Science, Darmstadt
 
+---
+
 
 # My Story and Motivation
 
@@ -70,7 +72,7 @@ When I jumped into the Telecom Industry I quickly realised that handling data re
 
 When Snowflake was introduced, my knowledge in SQL came into play. Furthermore i had to familiarize myself with PowerBI, which was also introduced for developing dashboards. So, there was a lot to learn, and i´m still learning today.
 
-But somehow, there was missing piece in my data knowledge. Up to this point i did a lot of exploratory data analysis or said differently, i worked so far with data which represent the past.
+But somehow, there is a missing piece in my data knowledge. Up to this point i did a lot of exploratory data analysis or said differently, so far i work with data which represent the past.
 
 
 &nbsp;
