@@ -53,6 +53,8 @@ To reach this goal I extracted and transformed data with SQL in Snowflake and co
 
 ## Previous projects
 
+* lksjlkdjlksdjfkljdlkfjsdlf
+
 
 # Education
 * April, 2023 - today: Career Path "Data Scientist: Machine Learning Specialist on [www.codecademy.com](https://www.codecademy.com/learn/paths/data-science)
@@ -65,6 +67,7 @@ To reach this goal I extracted and transformed data with SQL in Snowflake and co
 When I studied Economic Psychology, quantitative methods played a crucial role in the curriculum. I was exited about gaining insights with data. And somehow I had a sense for handling data. In my 5th semester we conducted a quantitative field study among carsharer. Our partner was Fraunhofer Institute for System and Innovation Research. And this was my start in Energy Research. I wrote my thesis there, then worked for a few months as a trainee at the Institute for Ressource Efficiency and Energy Strategies and lastly started there as a Junior Social Scientist. Until this time my study mainly focused on qualitative research. Interviews, Focus Groups, transcribing, analyzing and project meetings were my daily work. But I also did exploratory data analysis, mainly with SPSS and Excel.
 
 When I jumped into the Telecom Industry I quickly realised that handling data require different skills. And there´s a simple reason for that. Data is alive. During my research time I worked with static data derived from surveys. But now I have to work with dynamic data that changes daily.
+
 
 &nbsp;
 
