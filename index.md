@@ -53,7 +53,10 @@ To reach this goal I extracted and transformed data with SQL in Snowflake and co
 
 ## Previous projects
 
-* lksjlkdjlksdjfkljdlkfjsdlf
+* Exploratory Analysis about the German commercial building stock using SPSS. The analysis covered technical and energy related data. The dataset originated from a survey conducted by the Fraunhofer Institute.
+
+* Exploratory and inference analysis about the acceptance, attitudes and requirements of a multimodal mobility platform. This survey was conducted during my study  
+
 
 
 # Education
