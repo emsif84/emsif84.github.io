@@ -16,9 +16,6 @@ My name ist Florian. I have an educational background in Economic Psychology, cu
 &nbsp;
     
 ### Get in contact!  
-<a href="https://github.com/emsif84/churn_prediction">
-    <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="LinkedIn" width="30" height="30"/>
-</a>
 <a href="https://linkedin.com/in/florianemsmann">
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" width="30" height="30"/>
 </a>
@@ -64,7 +61,7 @@ To reach this goal I extracted and transformed data with SQL in Snowflake and co
 
 
 # Education
-* October, 2014 - April, 2018: **B.Sc. Economic Psychology** at University at Applied Science, Darmstadt  
+* October, 2014 - April, 2018: **B.Sc. Economic Psychology** at University at Applied Science, Darmstadt
 Thesis: Qualitative study about the acceptance of PV-Systems among german companys.
 
 # Additional Qualification
