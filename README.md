@@ -1,1 +1,1 @@
-This is my repository about my GitHub Page
+Hello! This is my repository of my GitHub Page
