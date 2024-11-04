@@ -61,13 +61,13 @@ To reach this goal I extracted and transformed data with SQL in Snowflake and co
 
 
 # Education
-* October, 2014 - April, 2018: **B.Sc. Economic Psychology** at University at Applied Science, Darmstadt    
+* October, 2014 - April, 2018: **B.Sc. Economic Psychology** at University at Applied Science, Darmstadt  
 Thesis: Qualitative study about the acceptance of PV-Systems among german companys.
 
 # Additional Qualification
 * April, 2023 - today: Career Path **"Data Scientist: Machine Learning Specialist"** on [www.codecademy.com](https://www.codecademy.com/learn/paths/data-science)
 
-* Certified Project Management Associate (IPMA Level D)
+* May, 2020 - August, 2020: Certified Project Management Associate (IPMA Level D)
 
 
 ---
