@@ -5,7 +5,7 @@ My name ist Florian. I have an educational background in Economic Psychology, cu
 
 ### My Data Portfolio on GitHub
 
-[Customer Churn Part 1: Exploratory Data Anlysis](https://github.com/emsif84/churn_prediction)
+[Customer Churn Part 1: Exploratory Data Analysis](https://github.com/emsif84/churn_prediction)
 
 <!-- ### Data Portfolio   
 <div style="display: flex; align-items: center;">
