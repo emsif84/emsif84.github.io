@@ -59,7 +59,7 @@ To reach this goal I extracted and transformed data with SQL in Snowflake and co
 
 * Exploratory Analysis about the German commercial building stock using SPSS. The analysis covered technical and energy related data. The dataset originated from a survey conducted by the Fraunhofer Institute.
 
-* Exploratory and inference analysis about the acceptance, attitudes toward and requirements of multimodal mobility platforms. This survey was conducted during my study. Theoretical background was 'Diffusion of Innovation' from which the adapter categories were used for clustering.     
+* Exploratory and inference analysis with SPSS and Excel about the acceptance and attitudes toward as well as requirements of multimodal mobility platforms. This survey was conducted during my study. Theoretical background was 'Diffusion of Innovation' from which the adapter categories were used for clustering.     
 
 
 
