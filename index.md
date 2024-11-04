@@ -69,6 +69,10 @@ To reach this goal I extracted and transformed data with SQL in Snowflake and co
 * October, 2014 - April, 2018: **B.Sc. Economic Psychology** at University at Applied Science, Darmstadt  
 Thesis: Qualitative study about the acceptance of PV-Systems among german companys.
 
+# Additional Qualification
+* Certified Project Management Associate (IPMA Level D)
+
+
 ---
 
 
