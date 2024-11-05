@@ -84,8 +84,7 @@ But there is still a missing piece in my data knowledge. Up to this point I did 
 
 <!-- Beside that i acquired Data Science and Machine Learning books of which my favorite is [The StatQuest Illustrated Guide To Machine Learning](https://www.amazon.de/StatQuest-Illustrated-Guide-Machine-Learning/dp/B0BLM4TLPY/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1DZ984LPZBRUR&dib=eyJ2IjoiMSJ9.2GXCz4jRDRokvgYbH-yB2ixMfIjFE0fH1PcNOqB1bF0fJO7njNeqbo6MkCqF3QCnVepK43ktQ4hbYsot9k76Mqi5pabA9c2XLbi00EbkT-RD5YLt6kXab6-a4aBqI58g5o5WGklCQBROMuYfsDPz3CAfSfzAfpG6cGFKmmi3mqHjOqYK3yqZpnWfTQdmO_QjE6Fv5jc0HGO81mzta6OrmPLjTIdlfbg1cmWxZ9YWy_8.0u7oSjrPegoloBmJhhIl4uBUDHJyC3Q7VyCNc8ozCUA&dib_tag=se&keywords=stat+quest&qid=1730454982&sprefix=stat+quest%2Caps%2C111&sr=8-1) by Josh Starmer (check out his genius [Youtube](https://www.youtube.com/@statquest) Channel!). -->
 
-And here I am! I have a big motivation to dive depper into the world of Data Science and Machine Learning.  
-
+<!-- And here I am! I have a big motivation to dive depper into the world of Data Science and Machine Learning. -->
 
 ---
 
