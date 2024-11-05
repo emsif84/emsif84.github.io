@@ -1,6 +1,6 @@
 
 # Hello!
-My name ist Florian, based in Karlsruhe. I have an educational background in Economic Psychology, currently working in Data Management and motivated to dive deeper into Data Analytics and Data Science.  
+My name ist Florian, based in Karlsruhe. I have an educational background in Economic Psychology, currently working in Data Management and are enthusiastic about Data Analytics and Data Science. 
 
 
 ### My Data Portfolio on GitHub
