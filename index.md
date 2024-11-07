@@ -5,7 +5,7 @@ My name ist Florian, based in Karlsruhe. I have an educational background in Eco
 
 ### My Data Portfolio on GitHub
 
-[Customer Churn Part 1: Exploratory Data Analysis](https://github.com/emsif84/churn_prediction)
+[Customer Churn Analysis with Python](https://github.com/emsif84/churn_prediction)
 
 <!-- ### Data Portfolio   
 <div style="display: flex; align-items: center;">
