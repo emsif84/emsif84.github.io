@@ -67,6 +67,8 @@ Thesis: Qualitative study about the acceptance of PV-Systems among german compan
 # Additional Qualification
 * April, 2023 - December, 2024: Career Path **"Data Scientist: Machine Learning Specialist"** on [www.codecademy.com](https://www.codecademy.com/learn/paths/data-science)
 
+[Certificate](https://www.codecademy.com/profiles/emsif_84/certificates/8e9e59de3f924b33ad2371faf667129b)
+
 * May, 2020 - August, 2020: Certified Project Management Associate (IPMA Level D)
 
 
