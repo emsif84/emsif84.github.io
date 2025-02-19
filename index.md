@@ -73,7 +73,7 @@ Thesis: Qualitative study about the acceptance of PV-Systems among german compan
 ---
 
 
-# My Story and Motivation
+# Motivation
 
 When I studied Economic Psychology, quantitative methods played a crucial role in the curriculum. I was exited about gaining insights with data. And somehow I had a sense of handling data. In my 5th semester we conducted a quantitative field study among carsharer about multimodal mobility platforms with the Fraunhofer Institute for System and Innovation Research. And this was my start in Energy Research. I wrote my thesis at Fraunhofer, then worked as a trainee at the Institute for Ressource Efficiency and Energy Strategies and lastly started there as a Junior Social Scientist. Up to this point my work mainly focused on qualitative research. Interviews, Focus Groups, transcribing, analyzing, writing and project meetings were my daily work. But I also did exploratory data analysis, mainly with SPSS and Excel.
 
