@@ -10,6 +10,9 @@ My name ist Florian, based in Karlsruhe, Germany. I have an educational backgrou
 
 [Clustering with ecommerce data](https://github.com/emsif84/clustering_ecommerce)
 
+
+[Sales Forecasting wit XGBoost](https://github.com/emsif84/sales_forecasting)
+
 <!-- ### Data Portfolio   
 <div style="display: flex; align-items: center;">
     <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="icon" height="30" width="30" style="margin-right: 8px;">
